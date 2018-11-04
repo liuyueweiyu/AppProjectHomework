@@ -10,4 +10,5 @@
 1. [第一周](https://github.com/liuyueweiyu/AppProjectHomework/blob/master/firstDemo/README.md)
 2. [第二章](https://github.com/liuyueweiyu/AppProjectHomework/blob/master/2ndDemo/README.md)
 3. [第三周](https://github.com/liuyueweiyu/AppProjectHomework/blob/master/3rdDemo/README.md)
+4. [第四周](https://github.com/liuyueweiyu/AppProjectHomework/blob/master/4thDemo/README.md)
 
