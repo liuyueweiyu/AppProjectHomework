@@ -1,0 +1,5 @@
+﻿  demo4_2.cpp
+g:\enidwang\documents\courses\2018autumn\software_project\demo4_2\demo4_2.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 G:\EnidWang\Documents\courses\2018autumn\software_project\demo4_2\Debug\demo4_2.lib 和对象 G:\EnidWang\Documents\courses\2018autumn\software_project\demo4_2\Debug\demo4_2.exp
+  demo4_2.vcxproj -> G:\EnidWang\Documents\courses\2018autumn\software_project\demo4_2\Debug\demo4_2.exe
+  demo4_2.vcxproj -> G:\EnidWang\Documents\courses\2018autumn\software_project\demo4_2\Debug\demo4_2.pdb (Full PDB)
