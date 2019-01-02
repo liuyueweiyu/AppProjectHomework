@@ -1,0 +1,12 @@
+﻿  6thDemo.cpp
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(22): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(23): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(64): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(78): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\guxiaowu\desktop\software\6thdemo\6thdemo.cpp(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+    正在创建库 C:\Users\GuXiaowu\Desktop\software\6thDemo\Debug\6thDemo.lib 和对象 C:\Users\GuXiaowu\Desktop\software\6thDemo\Debug\6thDemo.exp
+  6thDemo.vcxproj -> C:\Users\GuXiaowu\Desktop\software\6thDemo\Debug\6thDemo.exe
+  6thDemo.vcxproj -> C:\Users\GuXiaowu\Desktop\software\6thDemo\Debug\6thDemo.pdb (Full PDB)
